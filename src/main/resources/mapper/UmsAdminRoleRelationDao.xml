@@ -34,7 +34,3 @@
             AND pr.admin_id = #{adminId}
     </select>
 </mapper>
-{
-"password":"123456",
-"username":"admin"
-}
