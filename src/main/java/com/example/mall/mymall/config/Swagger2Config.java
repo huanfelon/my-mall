@@ -16,10 +16,13 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 import java.util.ArrayList;
 import java.util.List;
-
 /**
  * Swagger2API文档的配置
  * http://localhost:8080/swagger-ui.html
+ * {
+ * "password":"123456",
+ * "username":"admin"
+ * }
  */
 @Configuration
 @EnableSwagger2
