@@ -1,4 +1,4 @@
-package com.example.mall.mymall.nosql.monbodb.repository;
+package com.example.mall.mymall.nosql.mongodb.repository;
 
 import com.example.mall.mymall.nosql.mongodb.document.MemberReadHistory;
 import org.springframework.data.mongodb.repository.MongoRepository;

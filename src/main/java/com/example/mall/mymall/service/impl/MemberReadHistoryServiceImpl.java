@@ -1,6 +1,6 @@
 package com.example.mall.mymall.service.impl;
 
-import com.example.mall.mymall.nosql.monbodb.repository.MemberReadHistoryRepository;
+import com.example.mall.mymall.nosql.mongodb.repository.MemberReadHistoryRepository;
 import com.example.mall.mymall.nosql.mongodb.document.MemberReadHistory;
 import com.example.mall.mymall.service.MemberReadHistoryService;
 import org.springframework.beans.factory.annotation.Autowired;
